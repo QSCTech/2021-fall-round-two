@@ -1,4 +1,5 @@
 # 二面试题提交
+> 如果您打算使用 gitee 提交，请看另一份文档：`README_gitee.md` 。
 ## `git`
 `git` 是一个版本控制系统，在本次面试过程中，我们使用 `git` 来提交成品。
 关于 `git` 的具体用法，请搜索相关文章，或参考这本书：[Pro Git 中文版](https://git-scm.com/book/zh/v2) 。
