@@ -113,7 +113,7 @@ git remote add upstream git@gitee.com:dinoallo/qsctech-2021-fall-round-two.git #
 ### 从原仓库获取更新并合并
 
 ``` shell
-git pull upstream
+git pull upstream master # 如果你的工作分支是 master
 ```
 如果你的 git 的暂存区没有任何东西，那么只需执行以上步骤就可以完成更新。
 
